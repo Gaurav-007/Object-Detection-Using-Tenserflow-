@@ -1,14 +1,14 @@
 # Object-Detection-Using-Tenserflow-
 
-1.Used Simple tenserflow framework
+1. Used Simple tenserflow framework
 
-2.object detection is one of the important fields in data science which is widely used in modern world.
+2. object detection is one of the important fields in data science which is widely used in modern world.
 
-3.In this project we are using tenserflow and in this we are using our pre-trained model which Single Shot MultiBox Detector (ssd) model.
+3. In this project we are using tenserflow and in this we are using our pre-trained model which Single Shot MultiBox Detector (ssd) model.
 
-4.Our Model Name is "ssd_mobilenet_v1_coco".
+4. Our Model Name is "ssd_mobilenet_v1_coco".
 
-5.We are using simple tenserflow model for this project and tenserflow is a part of Deep learning.
+5. We are using simple tenserflow model for this project and tenserflow is a part of Deep learning.
 
 # Dependencies
 

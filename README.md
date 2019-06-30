@@ -1,5 +1,4 @@
-![](https://www.google.co.in/search?q=object+detection&source=lnms&tbm=isch&sa=X&ved=0ahUKEwihz6S6mZDjAhXLMo8KHVmZDKAQ_AUIECgB&biw=1366&bih=608#imgrc=Na21hxFoFMmEiM:)
-
+https://www.google.co.in/search?q=object+detection&source=lnms&tbm=isch&sa=X&ved=0ahUKEwihz6S6mZDjAhXLMo8KHVmZDKAQ_AUIECgB&biw=1366&bih=608#imgrc=Na21hxFoFMmEiM:
 # Object-Detection-Using-Tenserflow-
 
 1. Used Simple tenserflow framework
